@@ -1,0 +1,19 @@
+services:
+  application:
+    container_name: applicationcontainer
+    ports:
+      - 15670:8080
+      - 15671:8081
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - sqlserverdb
+  sqlserverdb: 
+    container_name: sqlservercontainer
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "8002:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=EmployeeDb123.

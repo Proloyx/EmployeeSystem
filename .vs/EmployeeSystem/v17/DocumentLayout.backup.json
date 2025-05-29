@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|c:\\datos\\eloy\\work\\proyectos\\employeesystem\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CF4F3BF-AEE6-8B6E-B216-BE8F77C113DA}|EmployeeSystem.csproj|solutionrelative:pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:58:56.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T10:58:56.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:58:56.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T10:58:56.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Details.cshtml.cs",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:58:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T10:58:56.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:58:56.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T10:58:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:58:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Datos\\Eloy\\Work\\Proyectos\\EmployeeSystem\\Pages\\Employees\\Create.cshtml*",
+              "RelativeToolTip": "Pages\\Employees\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T10:58:55.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
